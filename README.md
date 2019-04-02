@@ -1,4 +1,4 @@
-GtyutHola visita el canal de YouTube que te enseño como instalarlo y usarlo; https://youtu.be/bUEAmJu12Hc
+#Cowsay Hola    visita el canal de YouTube que te enseño como instalarlo y usarlo; https://youtu.be/bUEAmJu12Hc
 Selecciona una de las imágenes que quieras editar. Elegí kitty.cow para editar. Todavía serás libre de elegir cualquiera de los cowsay
 primero para insertar
 Elimina el comentario por defecto y pega los resultados convertidos
